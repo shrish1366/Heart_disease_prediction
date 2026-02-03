@@ -94,5 +94,4 @@ Based on this input, the model predicts:
 
 ---
 
-## 📂 Project Structure
 
